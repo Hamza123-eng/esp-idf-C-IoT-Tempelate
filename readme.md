@@ -43,7 +43,7 @@ To integrate this project into your ESP32 environment, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://gitlab.com/epteck-pk/ept-teams/digital-bravo/ept-products/ept-libs/esp-idf/idf-cpp-template.git -b component/i2c
+   git clone https://github.com/Hamza123-eng/esp-idf-C-IoT-Tempelate.git
 
 2. Build, flash, and monitor the code using the following command
 
